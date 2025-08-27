@@ -1,7 +1,5 @@
 # Team Members:
 Saket Jha : 21CS30044 
-Varnit Shukla : 21CS10074  
-Harsh Vardhan : 21CS10031 
 
 
 # Image Captioning and Classification Project
