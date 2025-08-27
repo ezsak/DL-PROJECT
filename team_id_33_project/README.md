@@ -1,7 +1,7 @@
 # Team Members:
-Saket Jha : 21CS30044 : saketjhacse@kgpian.iitkgp.ac.in
-Varnit Shukla : 21CS10074 : varnitshukla.09@kgpian.iitkgp.ac.in   
-Harsh Vardhan : 21CS10031 : straightlussac@kgpian.iitkgp.ac.in
+Saket Jha : 21CS30044 
+Varnit Shukla : 21CS10074  
+Harsh Vardhan : 21CS10031 
 
 
 # Image Captioning and Classification Project
